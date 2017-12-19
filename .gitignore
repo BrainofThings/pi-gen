@@ -6,3 +6,4 @@ SKIP
 .pc
 *-pc
 apt-cacher-ng/
+*.swp
